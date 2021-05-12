@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs'
 
-// Import screens1
+// Import screens
 import Chat from './src/chat'
 import LoginScreen from './src/login'
 import Rooms from './src/rooms'
