@@ -1,10 +1,10 @@
 import * as firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAyCZSWj5Kmbuvlp_UCa0BKJ717-0mAPAQ",
-  authDomain: "chatterbox-3c62f.firebaseapp.com",
-  databaseURL: 'chatterbox-3c62f-default-rtdb.firebaseio.com/',
-  storageBucket: "chatterbox-3c62f.appspot.com",
+  apiKey: "<YOUR_DETAILS>",
+  authDomain: "<YOUR_DETAILS>",
+  databaseURL: '<YOUR_DETAILS>',
+  storageBucket: "<YOUR_DETAILS>",
 }
 
 let app;
